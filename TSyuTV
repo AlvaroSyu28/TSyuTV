@@ -8,7 +8,7 @@ http://210.210.155.37/uq2663/h/h191/index.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://cdn.detik.net.id/20detik3/images/logo-trans7.png" group-title="Indonesia",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://cdn.detik.net.id/20detik3/images/logo-trans.png" group-title="Indonesia",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1215703511_b744100_sleng.m3u8
 #EXTINF:-1 tvg-id="Detik.com" tvg-logo="https://cdn.detik.net.id/20detik3/images/logo-detiktv.jpg" group-title="Indonesia",Detik TV
 https://vod.detik.com/mc/_definst_/smil:http/mc/video/detiktv/videoservice/AdminTV/2023/08/05/7fcfc63940994cf58627c4ac0f64df19.smil/chunklist_w2108368869_b1641166.m3u8
 #EXTINF:-1 tvg-id="Detik.com" tvg-logo="https://cdn.detik.net.id/20detik3/images/logo-cnn.png" group-title="Indonesia",CNN Indonesia
